@@ -50,7 +50,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/m-fajri-husaini-716741215/">LinkedIn</a>
-- <a href="fajrihusaini.blogspot.com">fajrihusaini.blogspot.com</a>
+- <a href="https://fajrihusaini.blogspot.com/">fajrihusaini.blogspot.com</a>
 - mfajrihusaini05@gmail.com
 - <a href="https://www.instagram.com/mfajrihusaini02/">Instagram</a>
 - <a href="https://twitter.com/wiihhhhh">Twitter</a>
