@@ -19,5 +19,3 @@
 ### Reach me on
 - <a href="https://www.linkedin.com/in/m-fajri-husaini-716741215/">LinkedIn</a>
 - mfajrihusaini05@gmail.com
-- <a href="https://www.instagram.com/mfajrihusaini02/">Instagram</a>
-- <a href="https://twitter.com/wiihhhhh">Twitter</a>
