@@ -1,18 +1,6 @@
-### Halo semua! 👋
+### Hi there! 👋
 
-Perkenalkan nama saya **Muhammad Fajri Husaini**.\
-
-Saya seorang **Alumni Siswa** di [Dicoding] tahun 2022 (https://www.dicoding.com/)
-dalam rangka mengikuti Program Kampus Merdeka (Magang Studi Independen Bersertifikat) batch 2
-[KampusMerdeka](https://kampusmerdeka.kemdikbud.go.id/).\ dan
-Saya seorang **Alumni** di [Politeknik Negeri Padang](https://www.pnp.ac.id/).
-
-Saya Alumni Politeknik Negeri Padang di: 
-Jurusan Teknologi Informasi
-Program Studi D3 Teknik Komputer
-pada angkatan 2019
-
-Jika kamu tertarik untuk berkenalan dengan saya, ini link [LinkedIn saya](https://www.linkedin.com/in/m-fajri-husaini-716741215/).
+**Muhammad Fajri Husaini**.\
 
 ### Tech Stack
   <a href="https://dart.dev/"><img align="left" alt="Dart" title="Dart" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Dart_programming_language_logo.svg" /></a>
