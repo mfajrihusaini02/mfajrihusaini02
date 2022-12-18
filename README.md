@@ -10,7 +10,7 @@
   <br>
   <br>
  
- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+ <a href="https://github.com/mfajrihusaini02/mfajrihusaini02">
     <img src="https://komarev.com/ghpvc/?username=mfajrihusaini02">
 </a>
 
