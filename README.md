@@ -9,6 +9,10 @@
   <a href="https://www.php.net/"><img align="left" alt="PHP" title="PHP" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
   <br>
   <br>
+ 
+ <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mfajrihusaini02">
+</a>
 
 ### Github Statistic
 <p align="left">
